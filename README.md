@@ -48,7 +48,7 @@ Users provide the following customer attributes:
 | Active Member       | Whether customer is actively engaged         |
 | Estimated Salary    | Customer’s annual salary                     |
 
-<img src="images/form_inputs.png" width="700"/>
+<img src="assets/webpage1.png" width="700"/>
 <sub>🧾 *Form interface where users enter customer details.*</sub>
 
 ---
@@ -58,11 +58,11 @@ Users provide the following customer attributes:
 Based on the provided data, the model returns:
 
 #### ✅ Not Likely to Churn
-<img src="images/not_churn.png" width="700"/>
+<img src="assets/webpage2.png" width="700"/>
 <sub>Green output when customer is predicted to stay.</sub>
 
 #### ⚠️ Likely to Churn
-<img src="images/likely_churn.png" width="700"/>
+<img src="assets/webpage3.png" width="700"/>
 <sub>Red output when customer is predicted to churn.</sub>
 
 ---
