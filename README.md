@@ -28,7 +28,7 @@ graph TD;
     D --> E[Streamlit App Development];
     E --> F[Deployment];
 
-
+```
 ## 🖼️ Web App Interface
 
 ### 📥 Input Fields
